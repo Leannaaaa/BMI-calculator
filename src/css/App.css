@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(228, 160, 160);
+    height: 100vh;
+}
+
+html {
+    height: 100vh;
+}
+
+#root {
+    height: 100%;
+}
+
+.App {
+    height: 100%;
+    display: flex;
+}
